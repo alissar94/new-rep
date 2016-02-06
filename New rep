@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Alissa's amazing webpage</title>
+  <style>
+   body{
+    background-image: url("http://3.bp.blogspot.com/-TIADEvafc0A/VULshTzPfZI/AAAAAAAARbs/UTdPQEPtNrk/s1600/ALISSA%2BRUIZ%2B(6).jpg"); 
+      }
+  p{
+    <background-repeat: no-repeat;
+    }
+  h1,h2{text-align: center; color:red;}
+   p {text-align: center;color: black; background-color:aqua;}
+
+    </style>
+     </head>
+       <body style="background-color:pink";}>
+       <h1 style="color:black"> Welcome to Alissa's fitness blog</h1>
+       <hr>
+       <div>
+          <li><a href="https://www.instagram.com/missalissa94/">Instagram</a></li>
+          <li><a href = "https://www.facebook.com/alissa.ruiz.56">Facebook</a><li>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/kfg549nWwvI" frameborder="0" allowfullscreen></iframe>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/6ErRoLfWKTU" frameborder="0" allowfullscreen></iframe>
+          </ul>
+          <div>
+              <h2>Here is everything you need to know to get you in the best shape</h2>
+      <p>A brief bio of me :
+          <p>   I am 21 , i was born and raised in the lovely city of Austin,tx. I have always been active even in my younger life. I played everything from soccer, to basketball, you name it I have done it. I have always been in both fitness and beauty competitions through my life. Which has 
+          taught me life lessons i will carry on throughout my life! My goal is to make you better which is muscle gain or weightloss or even both. On my blog i will be documenting my fitness journey and take you guys along this roller coaster I call life.
+          <hr>
+                <img src='https://yt3.ggpht.com/-Ao9gC1ZDQGA/AAAAAAAAAAI/AAAAAAAAAAA/QU9wTQSdpzk/s900-c-k-no/photo.jpg' height="300" width"300">
+                     <hr>
+                     <img src='http://4.bp.blogspot.com/-0Pgb3NM5p9E/VULsPEK7eeI/AAAAAAAARbQ/xck44Dfah68/s1600/ALISSA%2BRUIZ%2B(3).jpg' height="800" width="800">
+                     <hr>
+               <h3>Top 4 websites<h3>
+               <ol>
+               <li>
+               <a href="http://www.shape.com/lifestyle/mind-and-body/best-health-and-fitness-sites-women">Shape</a>
+               </li>
+               <!-- <ol start="2"> -->
+                <li>
+                <a href="http://www.womenshealthmag.com"><span class=important>Womenshealth</span></a>
+                <!-- <ol start = "3"> -->
+                 <li> 
+                 <a href="http://www.bodybuilding.com">Bodybuilding</a>
+                 <li> 
+                 <a href="http://www.muscleandfitness.com">Muscleandfitness</a>
+                 <hr>
+                 </body>
+                 </html>
+
+
